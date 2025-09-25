@@ -6,6 +6,13 @@ public class Sample {
 System.out.println("Employee Name : Suresh");
 	}
 	
+<<<<<<< HEAD
+	private void empAge() {
+ System.out.println("Employee Age : 35");
+	}
+	
+	
+=======
 	private void empNa() {
 System.out.println("Employee Name : Raj");
 	}
@@ -21,4 +28,5 @@ System.out.println("Employee Name : Raj");
 		s.empNa();
 		s.empNam();
 	}
+>>>>>>> 0f385bd6eea53895e22b6f8240b72f2ce1fecadd
 }
